@@ -113,7 +113,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"             // 摸鱼
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu_calendar"    // 摸鱼人日历
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"            // 点歌
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"       // 本地涩图
+	// "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"       // 本地涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife"       // 本地老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"          // 拼音首字母缩写释义工具
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nihongo"          // 日语语法学习
@@ -129,7 +129,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"         // 以图搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"            // 叔叔的AI二次元图片放大
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"            // 分数
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"         // 来份涩图
+	// "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"         // 来份涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"          // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"          // 测定
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/steam"            // steam相关
